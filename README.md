@@ -4,7 +4,7 @@
 
 👋 Hi there! I'm **GTekSD**, a passionate developer and security enthusiast. Welcome to my GitHub profile!
 
-[![gteksd](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) 
+[![gteksd](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true" />
 </a>
@@ -80,7 +80,7 @@ Here are some of the projects I'm currently working on:
 ![](https://github-profile-trophy.vercel.app/?username=gteksd&theme=darkhub&no-frame=false&no-bg=true&margin-w=5)
 
 ## :bird: Latest Tweet
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=cr34t0r_Cyxac&theme=tokyonight&response=false&border=false&time=true&icon=badge"/></a>
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=cr34t0r_Cyxac&theme=tokyonight&response=true&border=true&time=true&icon=hashtag"/></a>
 
 ### :top: Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gteksd&limit=5&theme=dark&combine_all_yearly_contributions=true)
