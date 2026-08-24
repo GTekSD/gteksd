@@ -9,15 +9,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=root%40gteksd%3A~%23+whoami;Offensive+Security+%7C+Red+Teaming;Building+SUASS+-+Secure+ur+Ass;Currently+diving+into+LLM+Security;Don't+ask+me+to+hack+your+ex's+Instagram." alt="Typing SVG" />
 </p>
 
-<p align="center">
-[![gteksd](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-</p>
-
 ---
 
 ## :dizzy: About Me
 
-I'm **Сухас**, founder of **GTekSD** — what started in **2018** as a YouTube channel about hacks and automation turned into a full-blown obsession with breaking, defending, and understanding systems. Based out of **Mumbai, India** 🇮🇳.
+I'm **Сухас**, founder of **GTekSD** — what started in **2018** as a YouTube channel about hacks and automation turned into a full-blown obsession with breaking, defending, and understanding systems. Based out of 🇮🇳.
 
 ```
 🔭  Currently building:     Network PT Tool Script & the SUASS knowledge base
@@ -102,15 +98,6 @@ I believe security shouldn't be gatekept behind expensive courses — that's why
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gteksd&theme=blue-green&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gteksd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gteksd&theme=darkhub&no-frame=false&no-bg=true&margin-w=5)
-
-## :bird: Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=cr34t0r_Cyxac&theme=tokyonight&response=true&border=true&time=true&icon=hashtag"/></a>
-
-### :top: Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gteksd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### :rofl: Random Sec Meme
 <img src="images/hacking-meme.jpg" width="512px"/>
 
@@ -118,7 +105,7 @@ I believe security shouldn't be gatekept behind expensive courses — that's why
 
 ## :handshake: Let's Connect
 
-Got a security question, want to collaborate on a red team tool, or just want to talk about the latest CVE over chai? My DMs are open on [LinkedIn](https://linkedin.com/in/Сухас1799) and [Twitter/X](https://twitter.com/cr34t0r_Cyxac). If you're on the same path — learning offsec, grinding HTB/THM boxes, or hunting your first bug bounty — drop a ⭐ on [SUASS](https://github.com/GTekSD/SUASS) and let's grow together.
+Got a security question, want to collaborate on a red team tool, or just want to talk about the latest CVE over juice? My DMs are open on [LinkedIn](https://linkedin.com/in/Сухас1799) and [Twitter/X](https://twitter.com/cr34t0r_Cyxac). If you're on the same path — learning offsec, grinding HTB/THM boxes, or hunting your first bug bounty — drop a ⭐ on [SUASS](https://github.com/GTekSD/SUASS) and let's grow together.
 
 ## :moneybag: Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gteksd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gteksd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gteksd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gteksd) 
