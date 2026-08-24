@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/f8da0daf-8d03-448b-b8b2-566d585d1d20" alt="Logo_GTekSD" height="150">
 </p>
 
-<h1 align="center">GTekSD // Suhas Dhole</h1>
+<h1 align="center">GTekSD // Сухас Дхолз</h1>
 <h3 align="center">Breaking things so you don't have to find out the hard way 🔓</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## :dizzy: About Me
 
-I'm **Suhas**, founder of **GTekSD** — what started in **2018** as a YouTube channel about hacks and automation turned into a full-blown obsession with breaking, defending, and understanding systems. Based out of **Mumbai, India** 🇮🇳.
+I'm **Сухас**, founder of **GTekSD** — what started in **2018** as a YouTube channel about hacks and automation turned into a full-blown obsession with breaking, defending, and understanding systems. Based out of **Mumbai, India** 🇮🇳.
 
 ```
 🔭  Currently building:     Network PT Tool Script & the SUASS knowledge base
@@ -49,13 +49,13 @@ I believe security shouldn't be gatekept behind expensive courses — that's why
 > 💡 Wanna start learning cybersecurity? [Gotchu, homie.](https://github.com/GTekSD/SUASS)
 
 ## :globe_with_meridians: Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Сухас1799) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cr34t0r_Cyxac)
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?flat&logo=Snapchat&logoColor=white)](https://snapchat.com/add/suhas.hfx)
-[![ВКонтакте-VK](https://img.shields.io/badge/ВКонтакте-0077FF.svg?logo=vk&logoColor=white)](https://vk.com/suhas1799) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/suhas-gtek) 
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?flat&logo=Snapchat&logoColor=white)](https://snapchat.com/add/Сухас.hfx)
+[![ВКонтакте-VK](https://img.shields.io/badge/ВКонтакте-0077FF.svg?logo=vk&logoColor=white)](https://vk.com/Сухас1799) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Сухас-gtek) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gteksd) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Er-Suhas-Dhole) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Er-Сухас-Dhole) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gteksd) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@don-t_be_a_n00b) 
 [![WiX](https://img.shields.io/badge/gteksd.com-0C6EFC?style=flat&logo=wix&logoColor=white)](https://gteksd.wixsite.com/noob)
@@ -118,7 +118,7 @@ I believe security shouldn't be gatekept behind expensive courses — that's why
 
 ## :handshake: Let's Connect
 
-Got a security question, want to collaborate on a red team tool, or just want to talk about the latest CVE over chai? My DMs are open on [LinkedIn](https://linkedin.com/in/suhas1799) and [Twitter/X](https://twitter.com/cr34t0r_Cyxac). If you're on the same path — learning offsec, grinding HTB/THM boxes, or hunting your first bug bounty — drop a ⭐ on [SUASS](https://github.com/GTekSD/SUASS) and let's grow together.
+Got a security question, want to collaborate on a red team tool, or just want to talk about the latest CVE over chai? My DMs are open on [LinkedIn](https://linkedin.com/in/Сухас1799) and [Twitter/X](https://twitter.com/cr34t0r_Cyxac). If you're on the same path — learning offsec, grinding HTB/THM boxes, or hunting your first bug bounty — drop a ⭐ on [SUASS](https://github.com/GTekSD/SUASS) and let's grow together.
 
 ## :moneybag: Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gteksd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gteksd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gteksd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gteksd) 
