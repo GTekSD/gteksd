@@ -2,27 +2,53 @@
   <img src="https://github.com/user-attachments/assets/f8da0daf-8d03-448b-b8b2-566d585d1d20" alt="Logo_GTekSD" height="150">
 </p>
 
-👋 Hi there! I'm **GTekSD**, a passionate developer and security enthusiast. Welcome to my GitHub profile!
+<h1 align="center">GTekSD // Suhas Dhole</h1>
+<h3 align="center">Breaking things so you don't have to find out the hard way 🔓</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=root%40gteksd%3A~%23+whoami;Offensive+Security+%7C+Red+Teaming;Building+SUASS+-+Secure+ur+Ass;Currently+diving+into+LLM+Security;Don't+ask+me+to+hack+your+ex's+Instagram." alt="Typing SVG" />
+</p>
+
+<p align="center">
 [![gteksd](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true" />
-</a>
+</p>
 
-## :dizzy: About Me:
-:telescope: I’m currently working on various security-related projects.<br>
-:seedling: I’m constantly learning and exploring new technologies, currently learning RedTeaming and LLM Security<br>
-:speech_balloon: Ask me about Cybersecurity, InfoSec, Application Security, Pen-Testing and Red-Teaming<br>
-:notebook_with_decorative_cover: Wanna learn Cybersecurity? [Gotchu homie!](https://github.com/GTekSD/SUASS)<br>
-:zap: Fun fact: Don't ask me Hack into ur girlfriend's account.<be>
+---
 
-## Projects
+## :dizzy: About Me
 
-Here are some of the projects I'm currently working on:
+I'm **Suhas**, founder of **GTekSD** — what started in **2018** as a YouTube channel about hacks and automation turned into a full-blown obsession with breaking, defending, and understanding systems. Based out of **Mumbai, India** 🇮🇳.
 
-#### [SUASS](https://github.com/GTekSD/SUASS) : A comprehensive guide and toolkit for Application pentesting.
+```
+🔭  Currently building:     Network PT Tool Script & the SUASS knowledge base
+🌱  Currently learning:     Red Teaming, Cloud Pentesting & LLM/AI Security
+💬  Ask me about:           AppSec, Pen-Testing, Red-Teaming, OSINT, InfoSec
+📚  Sharing knowledge via:  SUASS — a free pentesting notes repo for the community
+🎯  2026 goal:              Land a top-tier bug bounty & finally finish that OSCP
+⚡  Fun fact:                Don't ask me to hack into your girlfriend's account.
+```
 
-## :globe_with_meridians: Socials:
+I believe security shouldn't be gatekept behind expensive courses — that's why [SUASS](https://github.com/GTekSD/SUASS) exists: a free, comprehensive, community-driven guide to Application Pentesting for anyone starting their offsec journey.
+
+## :dart: What I Do
+
+- 🕵️ **Offensive Security & Pen-Testing** — web apps, networks, and everything in between
+- 🩸 **Red Teaming** — thinking like the adversary so defenders don't have to learn it the hard way
+- 🤖 **LLM & AI Security** — prompt injection, model abuse, and the new attack surface everyone's ignoring
+- 🐍 **Tool Building** — Python-first automation for recon, scanning, and integrity checks
+
+## :rocket: Featured Projects
+
+| Project | Description |
+|---|---|
+| 🛡️ [**SUASS**](https://github.com/GTekSD/SUASS) | *Secure ur Ass* — a comprehensive guide & toolkit for Application Pentesting |
+| 🔍 **Network PT Tool Script** | A Python-based toolkit for network penetration testing workflows |
+| 🔐 **File Integrity Monitor (FIM)** | Built on the *Integrity* leg of the CIA Triad — detects and alerts on unauthorized file changes via hash comparison |
+| 🎭 **OSINT Personality Predictor** | Experimenting with predicting personality traits from social media behavior & digital footprints |
+
+> 💡 Wanna start learning cybersecurity? [Gotchu, homie.](https://github.com/GTekSD/SUASS)
+
+## :globe_with_meridians: Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cr34t0r_Cyxac)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?flat&logo=Snapchat&logoColor=white)](https://snapchat.com/add/suhas.hfx)
@@ -34,7 +60,7 @@ Here are some of the projects I'm currently working on:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@don-t_be_a_n00b) 
 [![WiX](https://img.shields.io/badge/gteksd.com-0C6EFC?style=flat&logo=wix&logoColor=white)](https://gteksd.wixsite.com/noob)
 
-## :computer: Tech Stack:
+## :computer: Tech Stack
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.learn-cpp.org/) 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.learn-cpp.org/) 
 [![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.learnshell.org/) 
@@ -71,7 +97,7 @@ Here are some of the projects I'm currently working on:
 [![Intigriti](https://img.shields.io/badge/-Intigriti-%23161A36?style=flat&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/dashboard) 
 [![Open](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=flat&logo=openbugbounty&logoColor=white)](https://www.openbugbounty.org/) 
 
-## :bar_chart: GitHub Stats:
+## :bar_chart: GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=gteksd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gteksd&theme=blue-green&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gteksd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -90,10 +116,12 @@ Here are some of the projects I'm currently working on:
 
 ---
 
-  ## :moneybag: You can help me by Donating
+## :handshake: Let's Connect
+
+Got a security question, want to collaborate on a red team tool, or just want to talk about the latest CVE over chai? My DMs are open on [LinkedIn](https://linkedin.com/in/suhas1799) and [Twitter/X](https://twitter.com/cr34t0r_Cyxac). If you're on the same path — learning offsec, grinding HTB/THM boxes, or hunting your first bug bounty — drop a ⭐ on [SUASS](https://github.com/GTekSD/SUASS) and let's grow together.
+
+## :moneybag: Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gteksd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gteksd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gteksd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gteksd) 
-
-
 
 <!-- Snake animation -->
 <div align="center">
