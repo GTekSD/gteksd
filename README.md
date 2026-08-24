@@ -21,7 +21,7 @@ I'm **Сухас**, founder of **GTekSD** — what started in **2018** as a YouT
 💬  Ask me about:           AppSec, Pen-Testing, Red-Teaming, OSINT, InfoSec
 📚  Sharing knowledge via:  SUASS — a free pentesting notes repo for the community
 🎯  2026 goal:              Land a top-tier bug bounty & finally finish that OSCP
-⚡  Fun fact:                Don't ask me to hack into your girlfriend's account.
+⚡  Fun fact:               Don't ask me to hack into your girlfriend's account.
 ```
 
 I believe security shouldn't be gatekept behind expensive courses — that's why [SUASS](https://github.com/GTekSD/SUASS) exists: a free, comprehensive, community-driven guide to Application Pentesting for anyone starting their offsec journey.
@@ -31,7 +31,7 @@ I believe security shouldn't be gatekept behind expensive courses — that's why
 - 🕵️ **Offensive Security & Pen-Testing** — web apps, networks, and everything in between
 - 🩸 **Red Teaming** — thinking like the adversary so defenders don't have to learn it the hard way
 - 🤖 **LLM & AI Security** — prompt injection, model abuse, and the new attack surface everyone's ignoring
-- 🐍 **Tool Building** — Python-first automation for recon, scanning, and integrity checks
+- 🐍 **Tool Building** — Python or shell-scripting automation for recon, scanning, integrity checks and whatever i feel..
 
 ## :rocket: Featured Projects
 
